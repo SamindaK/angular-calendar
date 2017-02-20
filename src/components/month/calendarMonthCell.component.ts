@@ -23,7 +23,7 @@ import { MonthViewDay, CalendarEvent } from 'calendar-utils';
         [dragAxis]="{x: event.draggable, y: event.draggable}"
         (click)="$event.stopPropagation(); eventClicked.emit({event: event})">
       </div>
-       <span class="eventName">{{event.title}}</span>
+       <span>{{event.title}}</span>
     </div>
   `,
   host: {
