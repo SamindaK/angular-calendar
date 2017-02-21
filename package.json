@@ -1,5 +1,5 @@
 {
-  "name": "angular-calendar",
+  "name": "neg-evet-calendar",
   "version": "0.7.2",
   "description": "A calendar component that can display events on a month, week or day view",
   "main": "./dist/umd/angular-calendar.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamindaK/angular-calendar/tarball/master"
+    "url": "git+https://github.com/mattlewis92/angular-calendar.git"
   },
   "keywords": [
     "angular",
