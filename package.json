@@ -1,6 +1,6 @@
 {
   "name": "neg-evet-calendar",
-  "version": "0.7.2",
+  "version": "0.1.1",
   "description": "A calendar component that can display events on a month, week or day view",
   "main": "./dist/umd/angular-calendar.js",
   "style": "./dist/css/angular-calendar.css",
